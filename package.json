@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ChibuO.github.io/DynastyServices/",
-  "name": "react-portfolio-website",
+  "homepage": "https://ChibuO.github.io/dynasty-services/",
+  "name": "dynasty-services",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

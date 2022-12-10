@@ -15,11 +15,11 @@ import ScrollToTop from './components/ScrollToTop';
 function App() {
   return (
     <div>
-      <Router basemname='/DynastyServices'>
+      <Router basename={`${process.env.PUBLIC_URL}`}>
         <ScrollToTop>
           <Navbar />
           <Routes>
-            <Route path='/' exact element={<Home />}/>
+            <Route index element={<Home />}/>
             <Route path='/services' exact element={<Services />}/>
             <Route path='/products' exact element={<Products />}/>
             <Route path='/sign-up' exact element={<SignUp />}/>
