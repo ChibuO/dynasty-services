@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dynasty-services/static/css/main.3bea77e8.chunk.css",
-    "main.js": "/dynasty-services/static/js/main.40842b5c.chunk.js",
-    "main.js.map": "/dynasty-services/static/js/main.40842b5c.chunk.js.map",
+    "main.js": "/dynasty-services/static/js/main.56ca00e2.chunk.js",
+    "main.js.map": "/dynasty-services/static/js/main.56ca00e2.chunk.js.map",
     "runtime-main.js": "/dynasty-services/static/js/runtime-main.3cc8e2f6.js",
     "runtime-main.js.map": "/dynasty-services/static/js/runtime-main.3cc8e2f6.js.map",
     "static/js/2.5e7c5df2.chunk.js": "/dynasty-services/static/js/2.5e7c5df2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3cc8e2f6.js",
     "static/js/2.5e7c5df2.chunk.js",
     "static/css/main.3bea77e8.chunk.css",
-    "static/js/main.40842b5c.chunk.js"
+    "static/js/main.56ca00e2.chunk.js"
   ]
 }
