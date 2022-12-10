@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Home from './components/pages/Home';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
@@ -12,15 +12,15 @@ import ScrollToTop from './components/ScrollToTop';
 function App() {
   return (
     <div>
-      <Router>
+      <Router basemname={`/${process.env.PUBLIC_URL}`}>
         <ScrollToTop>
           <Navbar />
-          <Switch>
-            <Route path='/' exact component={Home}/>
-            <Route path='/services' exact component={Services}/>
-            <Route path='/products' exact component={Products}/>
-            <Route path='/sign-up' exact component={SignUp}/>
-          </Switch>
+          <Routes>
+            <Route path='' exact element={Home}/>
+            <Route path='/services' exact element={Services}/>
+            <Route path='/products' exact element={Products}/>
+            <Route path='/sign-up' exact element={SignUp}/>
+          </Routes>
           <Footer />
         </ScrollToTop>
       </Router>

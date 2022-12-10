@@ -6,7 +6,7 @@ import '../App.css'; //to make sure you have all your styles
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src="/videos/dynasty-theme.mp4" autoPlay loop muted />
+            <video src="videos/dynasty-theme.mp4" autoPlay loop muted />
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for?</p>
             <div className="hero-btns">
