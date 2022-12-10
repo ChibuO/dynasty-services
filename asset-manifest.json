@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DynastyServices/static/css/main.88df288d.chunk.css",
-    "main.js": "/DynastyServices/static/js/main.c4f7d1a2.chunk.js",
-    "main.js.map": "/DynastyServices/static/js/main.c4f7d1a2.chunk.js.map",
+    "main.css": "/DynastyServices/static/css/main.3bea77e8.chunk.css",
+    "main.js": "/DynastyServices/static/js/main.f55fea2b.chunk.js",
+    "main.js.map": "/DynastyServices/static/js/main.f55fea2b.chunk.js.map",
     "runtime-main.js": "/DynastyServices/static/js/runtime-main.fbb9f689.js",
     "runtime-main.js.map": "/DynastyServices/static/js/runtime-main.fbb9f689.js.map",
-    "static/js/2.3f846931.chunk.js": "/DynastyServices/static/js/2.3f846931.chunk.js",
-    "static/js/2.3f846931.chunk.js.map": "/DynastyServices/static/js/2.3f846931.chunk.js.map",
+    "static/js/2.bab52d5d.chunk.js": "/DynastyServices/static/js/2.bab52d5d.chunk.js",
+    "static/js/2.bab52d5d.chunk.js.map": "/DynastyServices/static/js/2.bab52d5d.chunk.js.map",
     "index.html": "/DynastyServices/index.html",
-    "static/css/main.88df288d.chunk.css.map": "/DynastyServices/static/css/main.88df288d.chunk.css.map",
-    "static/js/2.3f846931.chunk.js.LICENSE.txt": "/DynastyServices/static/js/2.3f846931.chunk.js.LICENSE.txt"
+    "static/css/main.3bea77e8.chunk.css.map": "/DynastyServices/static/css/main.3bea77e8.chunk.css.map",
+    "static/js/2.bab52d5d.chunk.js.LICENSE.txt": "/DynastyServices/static/js/2.bab52d5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fbb9f689.js",
-    "static/js/2.3f846931.chunk.js",
-    "static/css/main.88df288d.chunk.css",
-    "static/js/main.c4f7d1a2.chunk.js"
+    "static/js/2.bab52d5d.chunk.js",
+    "static/css/main.3bea77e8.chunk.css",
+    "static/js/main.f55fea2b.chunk.js"
   ]
 }
