@@ -15,7 +15,7 @@ import ScrollToTop from './components/ScrollToTop';
 function App() {
   return (
     <div>
-      <Router basename={`${process.env.PUBLIC_URL}`}>
+      <Router basename='/dynasty-services'>
         <ScrollToTop>
           <Navbar />
           <Routes>
