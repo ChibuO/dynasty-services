@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DynastyServices/static/css/main.88df288d.chunk.css",
+    "main.js": "/DynastyServices/static/js/main.c4f7d1a2.chunk.js",
+    "main.js.map": "/DynastyServices/static/js/main.c4f7d1a2.chunk.js.map",
+    "runtime-main.js": "/DynastyServices/static/js/runtime-main.fbb9f689.js",
+    "runtime-main.js.map": "/DynastyServices/static/js/runtime-main.fbb9f689.js.map",
+    "static/js/2.3f846931.chunk.js": "/DynastyServices/static/js/2.3f846931.chunk.js",
+    "static/js/2.3f846931.chunk.js.map": "/DynastyServices/static/js/2.3f846931.chunk.js.map",
+    "index.html": "/DynastyServices/index.html",
+    "static/css/main.88df288d.chunk.css.map": "/DynastyServices/static/css/main.88df288d.chunk.css.map",
+    "static/js/2.3f846931.chunk.js.LICENSE.txt": "/DynastyServices/static/js/2.3f846931.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb9f689.js",
+    "static/js/2.3f846931.chunk.js",
+    "static/css/main.88df288d.chunk.css",
+    "static/js/main.c4f7d1a2.chunk.js"
+  ]
+}
